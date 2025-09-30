@@ -7,6 +7,6 @@ This repository contains:
 
 Files:
 - `tips.csv`: Dataset
-- `ASSINGMENT_EDA.ipynb`: Python notebook for Assignment 3
+- `ASSINGMENT_3_EDA.ipynb`: Python notebook for Assignment 3
 - `ASSINGMENT_1_2_3_RAKESH_G_2401201064pdf`: Combined PDF of all three assignments
 
